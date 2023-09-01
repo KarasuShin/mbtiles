@@ -1,0 +1,9 @@
+{
+  "extends": "@karasushin/tsconfig/lib",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "module": "ESNext",
+    "moduleResolution": "Node"
+  }
+}
